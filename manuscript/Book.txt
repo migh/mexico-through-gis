@@ -1,1 +1,5 @@
+about-the-author.txt
+preface.txt
 chapter1.txt
+epilogue.txt
+index.txt
